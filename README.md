@@ -4,7 +4,7 @@ Identifying, forecasting, and visualizing U.S. neighborhood archetypes using Cen
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes how U.S. city neighborhoods have evolved from **1970 to 2022** and forecasts their socioeconomic trajectories through **2070**. Using harmonized Census and ACS data at the census-tract level, we identify stable **neighborhood archetypes**, predict their long-term evolution, and visualize these dynamics through an interactive web-based map.
 
@@ -12,7 +12,7 @@ The project is designed to support **urban planners, policymakers, and data scie
 
 ---
 
-## 🔍 Sample Visuals
+## Sample Visuals
 
 ![Neighborhood Archetypes Map](assets/archetypes_map.png)  
 *Interactive map showing neighborhood archetypes across U.S. census tracts.*
@@ -25,7 +25,7 @@ The project is designed to support **urban planners, policymakers, and data scie
 
 ---
 
-## 🧠 Key Objectives
+## Key Objectives
 
 - Identify neighborhood archetypes using socioeconomic and demographic indicators  
 - Cluster historical census tracts into interpretable neighborhood typologies  
@@ -35,7 +35,7 @@ The project is designed to support **urban planners, policymakers, and data scie
 
 ---
 
-## 📊 Data
+## Data
 
 **Primary Source:** IPUMS NHGIS  
 - Decennial Census: **1970–2000**  
@@ -54,7 +54,7 @@ The project is designed to support **urban planners, policymakers, and data scie
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Cleaning & Harmonization
 - Boundary interpolation using NHGIS & LTDB crosswalks  
@@ -91,7 +91,7 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ---
 
-## 📈 Results & Evaluation
+## Results & Evaluation
 
 - Clusters align with well-documented urban phenomena:
   - White flight in Detroit  
@@ -103,7 +103,7 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ---
 
-## 🚧 Limitations
+## Limitations
 
 - Incomplete historical data for early decades (pre-1980)  
 - High memory requirements for visualization  
@@ -112,7 +112,7 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Integrate environmental, crime, and transportation datasets  
 - Experiment with alternative time-series forecasting models  
@@ -121,7 +121,7 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python** (Pandas, PySpark, GeoPandas)  
 - **Machine Learning:** Self-Organizing Maps, K-Means, XGBoost  
@@ -130,13 +130,13 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ---
 
-## 👥 Team
+## Team
 
 - Kriti Agrawal, Vivek Prakash, Tanmayee Kolli, Yuan Jack Yao, Sindhu Panthangi, Nikolaos Kakonas  
 
 ---
 
-## 📄 References
+## References
 
 This project builds on prior research in urban analytics and neighborhood change, including work by Bell (1965), Delmelle et al. (2017), Lynge et al. (2022), and recent studies on clustering, gentrification, and spatial analysis.  
 See the full reference list in the accompanying project report.
