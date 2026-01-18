@@ -132,7 +132,7 @@ This hybrid approach preserves neighborhood similarity and gradual transitions b
 
 ## Team
 
-- Kriti Agrawal, Vivek Prakash, Tanmayee Kolli, Yuan Jack Yao, Sindhu Panthangi, Nikolaos Kakonas  
+Kriti Agrawal, Vivek Prakash, Tanmayee Kolli, Yuan Jack Yao, Sindhu Panthangi, Nikolaos Kakonas  
 
 ---
 
