@@ -14,13 +14,13 @@ The project is designed to support **urban planners, policymakers, and data scie
 
 ## Sample Visuals
 
-![Neighborhood Archetypes Map](assets/archetypes_map.png)  
+![Neighborhood Archetypes Map](assets/archetypes-map.png)  
 *Interactive map showing neighborhood archetypes across U.S. census tracts.*
 
-![Feature Forecasting](assets/feature_forecast.png)  
+![Feature Forecasting](assets/feature-forecast.png)  
 *Predicted evolution of socioeconomic features from 2030–2070.*
 
-![SOM Visualization](assets/som_grid.png)  
+![SOM Visualization](assets/som-grid.png)  
 *Self-Organizing Map preserving neighborhood similarity structure.*
 
 ---
